@@ -1,0 +1,17 @@
+analysis,series_or_region,period,mk_p_value,sens_slope_per_year,slope_unit,result_at_0.05
+Annual total rainfall,Delhi,1983-2022,0.2584,-2.8138,mm/year,non-significant decrease
+10th percentile of daily rainfall,Delhi,1983-2022,0.0911,-0.0016,mm/year,non-significant decrease
+90th percentile of daily rainfall,Delhi,1983-2022,0.395,-0.0701,mm/year,non-significant decrease
+Annual total rainfall,North West,1983-2022,0.0169,-8.1653,mm/year,significant decrease
+Annual total rainfall,North East,1983-2022,0.01,-7.5784,mm/year,significant decrease
+Annual total rainfall,South West,1983-2022,0.2684,3.8455,mm/year,non-significant increase
+Annual total rainfall,South East,1983-2022,0.9535,-0.3405,mm/year,non-significant decrease
+Light rainy days (>=1 mm),Delhi,1983-2022,0.6494,-0.0766,days/year,no significant trend
+Heavy rainy days (>=50 mm),Delhi,1983-2022,0.4786,0,days/year,no significant trend
+Simple daily intensity index (SDII),Delhi,1983-2022,0.3453,-0.0374,mm/day per year,non-significant decrease
+Maximum 1-day rainfall,Delhi,1983-2022,0.4629,-0.2363,mm/year,non-significant decrease
+Maximum 5-consecutive-day rainfall,Delhi,1983-2022,0.1269,-1.4976,mm/year,non-significant decrease
+Annual total rainfall,Delhi,1983-2008,0.1029,-10.7854,mm/year,non-significant decrease
+Annual total rainfall,Delhi,1988-2013,0.0275,-13.6856,mm/year,significant decrease
+Annual total rainfall,Delhi,1993-2018,0.012,-11.8765,mm/year,significant decrease
+Annual total rainfall,Delhi,1998-2022,0.8701,0.918,mm/year,non-significant increase
