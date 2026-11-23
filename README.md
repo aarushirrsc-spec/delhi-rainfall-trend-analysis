@@ -1,6 +1,6 @@
 # Long-Term Rainfall Trend Analysis over Delhi (1983–2022)
 
-Has rainfall in Delhi changed over the last 40 years? This project tests for trends in annual rainfall, rainfall extremes, rainy-day frequency and intensity, and compares trends across the four IMD grid pixels that cover Delhi and across overlapping time windows. The analysis is written in R. It was carried out as an MSc Geoinformatics minor project at TERI School of Advanced Studies.
+Has rainfall in Delhi changed over the last 40 years? This project tests for trends in annual rainfall, rainfall extremes, rainy-day frequency and intensity, and compares trends across the four IMD grid pixels that cover Delhi and across overlapping time windows. The analysis is written in R. It was carried out as an MSc Geoinformatics project at TERI School of Advanced Studies.
 
 **Short answer:** there is no statistically significant trend in Delhi's total annual rainfall over 1983–2022 (Mann–Kendall p = 0.26). The picture is more varied underneath: the northern part of Delhi shows significant decreases, and two of the four sub-periods do too.
 
